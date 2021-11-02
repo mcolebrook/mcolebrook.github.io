@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marcos Colebrook" #"Your Sidebar Name"
   avatar           : "MCS_2014.jpg" #"profile.png"
-  bio              : "Profesor Titular de CCIA en ULL" #"Your biography for the left-hand sidebar"
+  bio              : "Associate Professor" #"Your biography for the left-hand sidebar"
   location         : "Tenerife, Spain" #"Location"
   employer         : "Universidad de La Laguna"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=DJrcYV0AAAAJ&hl=es" #"http://yourfullgooglescholarurl.com"
-  email            : mcolesan@ull.edu.es
+  email            : "mcolesan@ull.edu.es"
   researchgate     : "https://www.researchgate.net/profile/Marcos-Colebrook" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://portalciencia.ull.es/investigadores/81404/detalle?lang=en"
   bitbucket        :
