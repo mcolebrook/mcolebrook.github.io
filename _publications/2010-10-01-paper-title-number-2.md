@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Efficient points in the biobjective cent-dian problem"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2000-12-01-SLA-2
+excerpt: '' #'This paper is about the number 2. The number 3 is left for future work.'
+date: 2000-12-01
+venue: 'Studies in Locational Analysis'
+paperurl: '' #'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Colebrook, M., Ramos, R.M., Ramos, M.T., Sicilia, J. Efficient points in the biobjective cent-dian problem. Studies in Locational Analysis 15, 1–16 (2000)'.#'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+### Abstract
+This paper analyzes the cent-dian problem on a weighted connected undirected network from a biobjective point of view, that is, considering two costs per edge. The problem consists of determining one facility on the network which minimizes the convex combination of both the total distance and the maximum distance from any point to the rest of the graph. Using computational geometry techniques, we propose a polynomial algorithm in O(|V||E|log|V|) time which determines all efficient points of the network. Several computational results are supplied at the end of the paper.
