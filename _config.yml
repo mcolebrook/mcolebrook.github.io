@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marcos Colebrook-Santamaría" #"Your Name / Site Title"
+title                    : "Mark's webpage" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Marcos Colebrook" #&name "Your Name"
 description              : &description "PDI en ULL" #&description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marcos Colebrook" #"Your Sidebar Name"
+  name             : "Marcos Colebrook Santamaría" #"Your Sidebar Name"
   avatar           : "MCS_2014.jpg" #"profile.png"
   bio              : "Associate Professor" #"Your biography for the left-hand sidebar"
   location         : "Tenerife, Spain" #"Location"
