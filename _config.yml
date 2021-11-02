@@ -85,6 +85,8 @@ author:
   bio              : "Profesor Titular de CCIA en ULL" #"Your biography for the left-hand sidebar"
   location         : "Universidad de La Laguna" #"Location"
   employer         :
+                    url: ""https://portalciencia.ull.es/investigadores/81404/detalle?lang=en"
+                    name: "Portal Ciencia ULL"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.es/citations?user=DJrcYV0AAAAJ&hl=es #"http://yourfullgooglescholarurl.com"
   email            : mcolesan@ull.edu.es
@@ -115,7 +117,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  portalciencia    : "https://portalciencia.ull.es/investigadores/81404/detalle?lang=en"
 
 
 # Reading Files
