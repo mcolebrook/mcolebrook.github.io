@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Degree in Computer Science from the University of Las Palmas de Gran Canaria (1993), Doctor with an European Doctorate Mention from the University of La Laguna within the Program in Statistics, Operations Research and Computing (2003), and University Expert Degree in Software Engineering (Non-Official) by the University of La Laguna (2007).
+Degree in Computer Science from the University of Las Palmas de Gran Canaria (1993), Ph.D. with an European Doctorate Mention from the University of La Laguna within the Program in Statistics, Operations Research and Computing (2003), and University Expert Degree in Software Engineering (Non-Official) by the University of La Laguna (2007).
 
 Former Deputy Director of the Computer Science School, since 2008 I'm an Associate Professor. I have lectures more than 25 different subjects in Computer Engineering, Industrial Engineering, Mathematics and Biology. I've supervised or co-supervised more than 20 Final-Year Dissertations in Computer Science.
 
