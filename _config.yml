@@ -6,6 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+#theme                    : minimal-mistakes-jekyll
+#minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 locale                   : "en-US"
 title                    : "Mark's webpage" #"Your Name / Site Title"
 title_separator          : "-"
