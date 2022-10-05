@@ -1,5 +1,5 @@
 ---
-title: "PROJECT: Multi-location management of items in SAP Business One"
+title: "PROJECT: Multi-location management of items in SAP Business One [2009]"
 collection: teaching
 type: "Computer Engineering Final Project"
 permalink: /teaching/2009-teaching-project-26

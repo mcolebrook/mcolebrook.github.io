@@ -1,5 +1,5 @@
 ---
-title: "PROJECT: Health management and reservations in SAP Business One"
+title: "PROJECT: Health management and reservations in SAP Business One [2009]"
 collection: teaching
 type: "Computer Engineering Final Project"
 permalink: /teaching/2009-teaching-project-27

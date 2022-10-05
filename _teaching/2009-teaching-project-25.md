@@ -1,5 +1,5 @@
 ---
-title: "PROJECT: Automatic experimentation environment of setting/correcting label algorithms for the shortest path problem"
+title: "PROJECT: Automatic experimentation environment of setting/correcting label algorithms for the shortest path problem [2009]"
 collection: teaching
 type: "Computer Engineering Final Project"
 permalink: /teaching/2009-teaching-project-25
