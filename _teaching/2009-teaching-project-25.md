@@ -1,5 +1,5 @@
 ---
-title: "PROJECT: Automatic experimentation environment of setting/correcting label algorithms for the shortest path problem [2009]"
+title: "Automatic experimentation environment of setting/correcting label algorithms for the shortest path problem [Final Year Project supervised in 2009]"
 collection: teaching
 type: "Computer Engineering Final Project"
 permalink: /teaching/2009-teaching-project-25
@@ -11,4 +11,4 @@ location: "La Laguna, Spain"
 
 **Authors**: Laura Sánchez Martínez de la Peña & Jonay García González
 
-Co-supervised with Dr. A. Sedeño Noda.
+Co-supervised with Dr. A. Sedeño-Noda.
