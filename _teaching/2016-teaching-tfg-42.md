@@ -1,14 +1,14 @@
 ---
-title: "Analysis of emergency incidents using Data Science techniques [Final Degree Project supervised in 2016]"
+title: "QiimeApp – A web platform for metagenomic analysis [Final Degree Project supervised in 2016]"
 collection: teaching
 type: "Computer Engineering Final Degree Project"
-permalink: /teaching/2016-teaching-tfg-42
+permalink: /teaching/2016-teaching-tfg-43
 venue: "Universidad de La Laguna, Depto. de Ingeniería Informática y de Sistemas"
-date: 2016-06-17
+date: 2016-06-21
 location: "La Laguna, Spain"
 ---
-*[Análisis de los incidentes del CECOES 1-1-2 utilizando técnicas de Ciencia de los Datos](https://riull.ull.es/xmlui/handle/915/2616)*
+*[QiimeApp – Una plataforma web para análisis metagenómicos](https://riull.ull.es/xmlui/handle/915/2614)*
 
-**Author**: Teno González-Dos-Santos
+ **Author**: Víctor Juidías-Rodríguez
 
-Co-supervised with Dr. C.J. Pérez-González.
+Co-supervised with Dr. J.L. Roda-García.
