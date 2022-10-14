@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Universidad de La Laguna, 1992
+* M.S. in Computer Science, Universidad de Las Palmas de Gran Canaria, 1993
+* [Ph.D](http://riull.ull.es/xmlui/handle/915/12140) with European Doctorate Mention in Statistics, Operations Research and Computing, Universidad de La Laguna, 2003
+* Post-graduate Degree on Software Engineering Expert, Universidad de La Laguna, 2007
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 1996: spent 3 months pent 3 months at the Departamento de Matemática Aplicada y Telemática (DMAT) in Barcelona researching on Combinatorial Optimization and Network Design with Dr. J. Fàbrega
+* Spring 2001: spent 3 months at the Institut für Techno- und Wirtschaftsmathematik (ITWM) in Kaiserslautern researching on Location Analysis with Dr. S. Nickel
+* November 2013 - March 2004: Assistant Professor (_Ayudante de Escuela Universitaria_ y _Profesor Asociado_)
+* April 2004 - May 2008: Associate Professor (_Titular de Escuela Universitaria_)
+* June 2008: Associate Professor (_Profesor Titular de Universidad_)
+* October 2005 - October 2009: Vicedean at the Computer Engineering School
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C
+* C++
+* R
+* Graphs
 
 Publications
 ======
@@ -53,7 +49,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
