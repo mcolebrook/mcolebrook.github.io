@@ -2,7 +2,7 @@
 title: "Analysis of emergency incidents using Data Science techniques [Final Degree Project supervised in 2016]"
 collection: teaching
 type: "Computer Engineering Final Degree Project"
-permalink: /teaching/2016-teaching-tfg-42
+permalink: /teaching/2016-teaching-tfg-41
 venue: "Universidad de La Laguna, Depto. de Ingeniería Informática y de Sistemas"
 date: 2016-06-17
 location: "La Laguna, Spain"
