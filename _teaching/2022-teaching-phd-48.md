@@ -7,9 +7,8 @@ venue: "Universidad de La Laguna, Depto. de Ingeniería Informática y de Sistem
 date: 2022-06-27
 location: "La Laguna, Spain"
 ---
-[*CURIE: un nuevo modelo conceptual de relaciones con los clientes (CRM)*](https://www.educacion.gob.es/teseo/mostrarRef.do?ref=2176479)
+[*CURIE: un nuevo modelo conceptual de relaciones con los clientes (CRM)*](https://portalciencia.ull.es/documentos/645d28a665ed332dc9f80576?lang=en)
 
  **Author**: Miguel Fernández Cejas
  
  Co-supervised with Dr. C.J. Pérez-González.
- [DIALNET](https://dialnet.unirioja.es/servlet/tesis?codigo=314611)
