@@ -11,4 +11,4 @@ location: "La Laguna, Spain"
 
  **Author**: Miguel Fernández Cejas
  
- Co-supervised with Dr. C.J. Pérez-González.
+ Co-supervised with [Dr. C.J. Pérez-González](https://portalciencia.ull.es/investigadores/81040/detalle).
