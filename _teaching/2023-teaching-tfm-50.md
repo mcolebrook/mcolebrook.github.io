@@ -1,5 +1,5 @@
 ---
-title: "Exploración y Evaluación de Técnicas de Deep Learning con Grafos [Master Thesis supervised in 2023]"
+title: "Exploration and Evaluation of Deep Learning Techniques with Graphs [Master Thesis supervised in 2023]"
 collection: teaching
 type: "Master Thesis"
 permalink: /teaching/2023-teaching-tfm-50

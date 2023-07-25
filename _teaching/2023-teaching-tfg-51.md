@@ -1,5 +1,5 @@
 ---
-title: "Redes Neuronales sobre Grafos (GNN): una Prueba de Concepto para sistemas recomendadores [Final Degree Project supervised in 2023]"
+title: "Graph Neural Networks (GNN): A Proof of Concept for Recommender Systems [Final Degree Project supervised in 2023]"
 collection: teaching
 type: "Computer Engineering Final Degree Project"
 permalink: /teaching/2023-teaching-tfg-51
