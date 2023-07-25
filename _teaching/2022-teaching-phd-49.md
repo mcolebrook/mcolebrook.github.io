@@ -2,7 +2,7 @@
 title: "CURIE: a new conceptual model for customer relationships (CRM) [PhD Dissertation supervised in 2022]"
 collection: teaching
 type: "PhD Dissertation"
-permalink: /teaching/2022-teaching-phd-48
+permalink: /teaching/2022-teaching-phd-49
 venue: "Universidad de La Laguna, Depto. de Ingeniería Informática y de Sistemas"
 date: 2022-06-27
 location: "La Laguna, Spain"
