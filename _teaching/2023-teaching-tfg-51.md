@@ -7,6 +7,6 @@ venue: "Universidad de La Laguna, Depto. de Ingeniería Informática y de Sistem
 date: 2023-07-24
 location: "La Laguna, Spain"
 ---
-*[Redes Neuronales sobre Grafos (GNN): una Prueba de Concepto para sistemas recomendadores]()*
+*[Redes Neuronales sobre Grafos (GNN): una Prueba de Concepto para sistemas recomendadores](http://riull.ull.es/xmlui/handle/915/33914)*
 
  **Author**: Cristian Vilanova González
