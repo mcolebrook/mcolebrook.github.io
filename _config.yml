@@ -84,7 +84,8 @@ analytics:
 # Site Author
 author:
   name             : "Marcos Colebrook Santamaría" #"Your Sidebar Name"
-  avatar           : "MCS_2014.jpg" #"profile.png"
+  #avatar           : "MCS_2014.jpg" #"profile.png"
+  avatar           : "MCS_2025_hi.jpg" #"profile.png"
   bio              : "Associate Professor" #"Your biography for the left-hand sidebar"
   location         : "Tenerife, Spain" #"Location"
   employer         : "Universidad de La Laguna"
